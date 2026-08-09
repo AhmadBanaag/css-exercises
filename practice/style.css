@@ -1,0 +1,9 @@
+#subsection {
+    color: blue;
+}
+
+.main #subsection {
+    color: red;
+    background-color: yellow;
+
+}
